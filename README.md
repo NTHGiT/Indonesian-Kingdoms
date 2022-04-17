@@ -3,6 +3,6 @@ Unciv Mod that takes the history of the Kingdom in Indonesia(Mataram Kingdoms, D
 
 ## Credits
 **Nations**
- - NTHGiT
+ - NTHGiT.
 **ModOptions**
  - NTHGiT
