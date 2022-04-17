@@ -9,6 +9,7 @@
 		"faith": 1,
 		"cityStrength": 2,
 		"cost": 1,
-		"uniqueTo" : "Mataram Kingdom"
+		"uniqueTo" : "Mataram Kingdom",
+                "requiredTech" : "Agriculture"
 	}
 ]
