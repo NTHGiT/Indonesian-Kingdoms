@@ -9,6 +9,7 @@
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "Throughout the 16th century, at the height of its glory under the rule of Anyakrakusuma, Mataram was one of the most powerful states in Java, the sultanate that united most of the island of Java, namely most of West Java, East Java and Central Java except Banten. control of Madura, and Sukadana (West Kalimantan) and the island of Sumatra (Palembang and Jambi).",
+                "uniqueText": "Throughout the 16th century, at the height of its glory under the rule of Anyakrakusuma, Mataram was one of the most powerful states in Java, the sultanate that united most of the island of Java, namely most of West Java, East Java and Central Java except Banten. control of Madura, and Sukadana (West Kalimantan) and the island of Sumatra (Palembang and Jambi).",
 
 		"declaringWar": "We'll start this War!",
 		"attacked": "Oh well, How dare you.",
@@ -35,6 +36,7 @@
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "During the reign of Sultan Trenggono, the Kingdom of Demak succeeded in expanding its power to Sunda Kelapa, Tuban, Surabaya, Pasuruan, Malang, and Blambangan. With the power it has, finally the Kingdom of Demak also succeeded in spreading Islam widely. At that time the Kingdom of Demak was the strongest Islamic kingdom in Java.",
+		"uniqueText": "During the reign of Sultan Trenggono, the Kingdom of Demak succeeded in expanding its power to Sunda Kelapa, Tuban, Surabaya, Pasuruan, Malang, and Blambangan. With the power it has, finally the Kingdom of Demak also succeeded in spreading Islam widely. At that time the Kingdom of Demak was the strongest Islamic kingdom in Java.",
 
 		"outerColor": [255,255,0],
 		"innerColor": [255,255,255],
