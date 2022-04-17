@@ -1,4 +1,7 @@
 [
+        // Ancient Era
+
+        //Always Available
 	{
 		"name": "Kotagede Mosque",
 		"isNationalWonder": true,
@@ -8,8 +11,8 @@
 		"happiness" : 1,
 		"faith": 1,
 		"cityStrength": 2,
-		"cost": 1,
+		"cost": 40,
 		"uniqueTo" : "Mataram Kingdom",
-                "requiredTech" : "Agriculture"
+                "requiredTech" : "Pottery"
 	}
 ]
