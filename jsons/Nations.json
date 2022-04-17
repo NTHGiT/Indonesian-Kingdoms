@@ -42,7 +42,7 @@
 		"uniqueText": "During the reign of Sultan Trenggono, the Kingdom of Demak succeeded in expanding its power to Sunda Kelapa, Tuban, Surabaya, Pasuruan, Malang, and Blambangan. With the power it has, finally the Kingdom of Demak also succeeded in spreading Islam widely. At that time the Kingdom of Demak was the strongest Islamic kingdom in Java.",
 
                 //***
-		"outerColor": [200,200,0],
+		"outerColor": [230,230,0],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
                 "cities": ["Bintoro", "Sunda Kelapa", "Tuban", "Surabaya", "Pasuruan", "Malang", "Blambangan", "Madiun"]
