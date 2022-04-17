@@ -6,7 +6,7 @@
 		"leaderName": "Anyakrakusuma",
 		"adjective": ["Matarams"],
 		"startBias": ["[Jungle]","[Plains]","Avoid [Snow]","Avoid [Tundra]"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Scientific",
 		
                 //**
 		"startIntroPart1": "Throughout the 16th century, at the height of its glory under the rule of Anyakrakusuma, Mataram was one of the most powerful states in Java, the sultanate that united most of the island of Java, namely most of West Java, East Java and Central Java except Banten. control of Madura, and Sukadana (West Kalimantan) and the island of Sumatra (Palembang and Jambi).",
@@ -23,13 +23,13 @@
 		"tradeRequest": "Interesting, wanna make a deal?.",
 
                 //***
-		"outerColor": [225,0,0],
+		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"cities": ["Siti Narawita","Karaton","Bumi Gede","Bumija","Siti Numbak Anyar", "Pajang", "Mancagara Wétan", "Mancagara Kilèn","Pasisiran Wétan","Pasisiran Kilèn"]
 	},
         {
-                //*
+        //*
                 "name" : "Demak Kingdoms",
                 "uniqueName" : "Demak Sultanate",
                 "leaderName" : "Sultan Trenggono",
@@ -40,9 +40,9 @@
                 //**
 		"startIntroPart1": "During the reign of Sultan Trenggono, the Kingdom of Demak succeeded in expanding its power to Sunda Kelapa, Tuban, Surabaya, Pasuruan, Malang, and Blambangan. With the power it has, finally the Kingdom of Demak also succeeded in spreading Islam widely. At that time the Kingdom of Demak was the strongest Islamic kingdom in Java.",
 		"uniqueText": "During the reign of Sultan Trenggono, the Kingdom of Demak succeeded in expanding its power to Sunda Kelapa, Tuban, Surabaya, Pasuruan, Malang, and Blambangan. With the power it has, finally the Kingdom of Demak also succeeded in spreading Islam widely. At that time the Kingdom of Demak was the strongest Islamic kingdom in Java.",
-		
+
                 //***
-		"outerColor": [200,200,0],
+		"outerColor": [255,255,0],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
                 "cities": ["Bintoro", "Sunda Kelapa", "Tuban", "Surabaya", "Pasuruan", "Malang", "Blambangan", "Madiun"]
@@ -60,7 +60,7 @@
                 "uniqueText": "The Sultanate of Aceh experienced a period of widest expansion and influence during the leadership of Sultan Iskandar Muda or Sultan Meukuta Alam. During his leadership, Aceh conquered Pahang which was the main source of tin.",
 
                 //***
-		"outerColor": [225,0,0],
+		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
                 "cities": ["Kutaraja", "Daya", "Pedir", "Lidie", "Nakur", "Jeumpa", "Lamuri", "Linge", "Peureulak", "Samudera Pasai"]
