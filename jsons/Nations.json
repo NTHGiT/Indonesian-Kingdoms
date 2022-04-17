@@ -18,8 +18,8 @@
 		"defeated": "We're done.",
 		"introduction": "Is that you?",
 
-		"neutralHello": ["Assalamualaikum.","Hello.."],
-		"hateHello": ["What do YOU want?!", "GO AWAY"],
+		"neutralHello": "Assalamualaikum.",
+		"hateHello": "What do YOU want?!",
 
 		"tradeRequest": "Interesting, wanna make a deal?.",
 
