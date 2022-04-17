@@ -7,7 +7,7 @@
 		"adjective": ["Matarams"],
 		"startBias": ["[Jungle]","[Plains]","Avoid [Snow]","Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
-		"cityStateType" : "Cultured"
+		"cityStateType" : "Cultured",
 		
                 //**
 		"startIntroPart1": "Throughout the 16th century, at the height of its glory under the rule of Anyakrakusuma, Mataram was one of the most powerful states in Java, the sultanate that united most of the island of Java, namely most of West Java, East Java and Central Java except Banten. control of Madura, and Sukadana (West Kalimantan) and the island of Sumatra (Palembang and Jambi).",
@@ -18,8 +18,8 @@
 		"defeated": "We're done.",
 		"introduction": "Is that you?",
 
-		"neutralHello": ["Assalamualaikum.","Hello.."]
-		"hateHello": ["What do YOU want?!", "GO AWAY"]
+		"neutralHello": ["Assalamualaikum.","Hello.."],
+		"hateHello": ["What do YOU want?!", "GO AWAY"],
 
 		"tradeRequest": "Interesting, wanna make a deal?.",
 
@@ -37,6 +37,7 @@
                 "adjective" : ["Demaknese"],
                 "startBias": ["[Plains]"],
 		"preferredVictoryType": "Scientific",
+		"cityStateType" : "Maritime",
 
                 //**
 		"startIntroPart1": "During the reign of Sultan Trenggono, the Kingdom of Demak succeeded in expanding its power to Sunda Kelapa, Tuban, Surabaya, Pasuruan, Malang, and Blambangan. With the power it has, finally the Kingdom of Demak also succeeded in spreading Islam widely. At that time the Kingdom of Demak was the strongest Islamic kingdom in Java.",
@@ -55,6 +56,7 @@
                "leaderName" : "Sultan Iskandar Muda",
                "adjective" : "Acehnese",
                "startBias" : ["[Plains]"],
+	       "cityStateType" : "Cultured",
 
                 //**
                 "startIntroPart1": "The Sultanate of Aceh experienced a period of widest expansion and influence during the leadership of Sultan Iskandar Muda or Sultan Meukuta Alam. During his leadership, Aceh conquered Pahang which was the main source of tin.",
