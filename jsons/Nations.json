@@ -1,7 +1,7 @@
 [
 	{
 		//nations
-		"name" : "Mataram Kingdoms",
+		"name" : "Kingdom of Mataram",
                 "uniqueName" : "Mataram Sultanate",
 		"leaderName": "Anyakrakusuma",
 		"adjective": ["Matarams"],
@@ -27,7 +27,7 @@
 		"cities": ["Siti Narawita","Karaton","Bumi Gede","Bumija","Siti Numbak Anyar", "Pajang", "Mancagara Wétan", "Mancagara Kilèn","Pasisiran Wétan","Pasisiran Kilèn"]
 	},
         {
-                "name" : "Demak Kingdoms",
+                "name" : "Kingdom of Demak",
                 "uniqueName" : "Demak Sultanate",
                 "leaderName" : "Sultan Trenggono",
                 "adjective" : ["Demaknese"],
@@ -43,7 +43,7 @@
                 "cities": ["Bintoro", "Sunda Kelapa", "Tuban", "Surabaya", "Pasuruan", "Malang", "Blambangan", "Madiun"]
          },
          {
-                "name" : "Aceh Kingdoms",
+                "name" : "Kingdom of Aceh",
                 "uniqueName" : "Aceh Darussalam Sultanate",
                 "leaderName" : "Sultan Iskandar Muda",
                 "adjective" : "Acehnese",
