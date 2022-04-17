@@ -9,8 +9,7 @@
 		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "Throughout the 16th century, at the height of its glory under the rule of Anyakrakusuma, Mataram was one of the most powerful states in Java, the sultanate that united most of the island of Java, namely most of West Java, East Java and Central Java except Banten. control of Madura, and Sukadana (West Kalimantan) and the island of Sumatra (Palembang and Jambi).",
-                "uniqueText": "Throughout the 16th century, at the height of its glory under the rule of Anyakrakusuma, Mataram was one of the most powerful states in Java, the sultanate that united most of the island of Java, namely most of West Java, East Java and Central Java except Banten. control of Madura, and Sukadana (West Kalimantan) and the island of Sumatra (Palembang and Jambi).",
-
+                
 		"declaringWar": "We'll start this War!",
 		"attacked": "Oh well, How dare you.",
 		"defeated": "We're done.",
@@ -51,6 +50,7 @@
                 "startBias" : ["[Plains]"],
 
                 "startIntroPart1": "The Sultanate of Aceh experienced a period of widest expansion and influence during the leadership of Sultan Iskandar Muda or Sultan Meukuta Alam. During his leadership, Aceh conquered Pahang which was the main source of tin.",
+                "uniqueText": "The Sultanate of Aceh experienced a period of widest expansion and influence during the leadership of Sultan Iskandar Muda or Sultan Meukuta Alam. During his leadership, Aceh conquered Pahang which was the main source of tin.",
 
 		"outerColor": [255,0,0],
 		"innerColor": [255,255,255],
