@@ -1,7 +1,8 @@
 [
 	{
 		//nations
-		"name": "Mataram Sultanate",
+		"name" : "Mataram Kingdoms",
+                "uniqueName" : "Mataram Sultanate",
 		"leaderName": "Anyakrakusuma",
 		"adjective": ["Matarams"],
 		"startBias": ["[Jungle]","[Plain]","Avoid [Snow]","Avoid [Tundra]"],
@@ -26,6 +27,7 @@
 	},
         {
                 "name" : "Demak Kingdoms",
+                "uniqueName" : "Demak Sultanate",
                 "leaderName" : "Sultan Trenggono",
                 "adjective" : ["Demaknese"],
                 "startBias": ["[Plain]"],
