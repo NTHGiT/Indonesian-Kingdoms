@@ -39,5 +39,19 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
                 "cities": ["Bintoro", "Sunda Kelapa", "Tuban", "Surabaya", "Pasuruan", "Malang", "Blambangan", "Madiun"]
-         }
+         },
+         {
+                "name" : "Aceh Kingdoms",
+                "uniqueName" : "Aceh Darussalam Sultanate",
+                "leaderName" : "Sultan Iskandar Muda",
+                "adjective" : "Acehnese",
+                "startBias" : ]"[Plain]"],
+
+                "startIntroPart1": "The Sultanate of Aceh experienced a period of widest expansion and influence during the leadership of Sultan Iskandar Muda or Sultan Meukuta Alam. During his leadership, Aceh conquered Pahang which was the main source of tin.",
+
+		"outerColor": [255,0,0],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Islam",
+                "cities": ["Kutaraja", "Daya", "Pedir", "Lidie", "Nakur", "Jeumpa", "Lamuri", "Linge", "Peureulak", "Samudera Pasai"]
+          }
 ]
