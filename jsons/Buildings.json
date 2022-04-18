@@ -1,18 +1,349 @@
-[
-        // Ancient Era
+///Dictionary [for a local autotyping]
 
-        //Always Available
-	{
-		"name": "Kotagede Mosque",
-		"isNationalWonder": true,
-		"culture": 1,
-		"science": 3,
-		"gold": 1,
-		"happiness" : 1,
-		"faith": 1,
-		"cityStrength": 2,
-		"cost": 40,
-		"uniqueTo" : "Mataram Kingdom",
-                "requiredTech" : "Pottery"
-	}
+    //Mataram Kingdom
+    
+        //Kotagede Mosque
+        //- Gedhe Kauman Great Mosque
+        //- Pathok Negara Sulthoni Mosque
+        //- PathokSurakarta Great Mosque
+        //- Al-Fatih Kepatihan Mosque
+        //Sunan Palace Surakarta
+        //Sultan Palace Yogyakarta
+        //Sari Park
+        
+    //Demak Kingdom
+    
+        //Demak Great Mosque
+        //- Door of Bledek
+        //- Soko Guru
+        //- Sunan Kalijaga's Tomb
+        //- Maksurah
+        //- Dampar Kencana
+        //- Serambi Majapahit
+        //- Mihrab
+        //Pawasren
+        //Surya Majapahit
+        
+    //Aceh Kingdom
+    
+        //Baiturrahman Big Mosque
+        //Sari Gunongan Park
+        //Indra Patra Walls
+        //Aceh Kingdom's Dirham Golds Site
+        
+    //Majapahit Kingdom
+    
+        //Tikus Temple
+        //- Bajang Ratu Temple
+        //- Wringin Lawang Temple
+        //- Brahu Temple
+        //Pari Temple
+        //- Penataran Temple
+        //- Jabung Temple
+        //- Sukuh Temple
+
+        //Kudadu Inscription
+        //- Sukamerta Inscription
+        //- Prapancasapura Inscription
+        //- Waringin Pitu Inscription
+
+[
+    //Mataram Kingdom
+    {
+        "name": "Kotagede Mosque",
+        "isNationalWonder": true,
+
+        "culture": 1, "science": 3, "happiness" : 1, "faith": 1, "cost": 20,
+
+        "uniqueTo" : "Mataram Kingdom",
+    },
+        {
+            "name": "Gedhe Kauman Great Mosque",
+            "isNationalWonder" : true,
+
+            "culture": 1, "happiness" : 1, "faith": 1, "cost": 30,
+
+            "uniqueTo" : "Mataram Kingdom",
+            "requiredBuilding" : "Kotagede Mosque",
+        },
+        {
+            "name": "Pathok Negara Sulthoni Plosokuning Mosque",
+            "isNationalWonder" : true,
+
+            "culture": 1, "happiness" : 1, "faith": 1, "cost": 40,
+
+            "uniqueTo" : "Mataram Kingdom",
+            "requiredBuilding" : "Kotagede Mosque",
+        },
+        {
+            "name": "Surakarta Great Mosque",
+            "isNationalWonder" : true,
+
+            "culture": 1, "happiness" : 1, "faith": 1, "cost": 45,
+
+            "uniqueTo" : "Mataram Kingdom",
+            "requiredBuilding" : "Kotagede Mosque",
+        },
+        {
+            "name": "Al-Fatih Kepatihan Mosque",
+            "isNationalWonder" : true,
+
+            "culture": 1, "happiness" : 1, "faith": 1, "cost": 50,
+
+            "uniqueTo" : "Mataram Kingdom",
+            "requiredBuilding" : "Kotagede Mosque",
+        },
+    {
+        "name": "Sunan Palace Surakarta",
+        "isNationalWonder" : true,
+
+        "culture": 1, "science": 2, "cost": 55,
+
+        "uniqueTo" : "Mataram Kingdom",
+    },
+    {
+        "name": "Sultan Palace Yogyakarta",
+        "isNationalWonder" : true,
+
+        "culture": 1, "happiness" : 1, "cost": 60,
+
+        "uniqueTo" : "Mataram Kingdom",
+    },
+    {
+        "name": "Sari Park",
+        "isNationalWonder" : true,
+
+        "happiness" : 1, "cost": 35,
+
+        "uniqueTo" : "Mataram Kingdom",
+    },
+    //Demak Kingdom
+    {
+        "name": "Demak Great Mosque",
+        "isNationalWonder" : true,
+
+        "science" : 3, "happiness" : 1,"faith" : 1, "cost": 40,
+
+        "uniqueTo" : "Demak Kingdom",
+    },
+        //Sub
+        {
+            "name" : "Door of Bledek",
+            "isNationalWonder" : true,
+            
+            "culture" : 1, "cost" : 20
+            
+            "uniqueTo" : "Demak Kingdom",
+            "requiredBuilding" : "Demak Great Mosque",
+        },
+        {
+            "name" : "Soko Guru",
+            "isNationalWonder" : true,
+            
+            "culture" : 1, "cost" : 20
+            
+            "uniqueTo" : "Demak Kingdom",
+            "requiredBuilding" : "Demak Great Mosque",
+        },
+        {
+            "name" : "Sunan Kalijaga's Tomb",
+            "isNationalWonder" : true,
+            
+            "culture" : 1, "cost" : 20
+            
+            "uniqueTo" : "Demak Kingdom",
+            "requiredBuilding" : "Demak Great Mosque",
+        },
+        {
+            "name" : "Maksurah",
+            "isNationalWonder" : true,
+            
+            "culture" : 1, "cost" : 20
+            
+            "uniqueTo" : "Demak Kingdom",
+            "requiredBuilding" : "Demak Great Mosque",
+        },
+        {
+            "name" : "Dampar Kencono",
+            "isNationalWonder" : true,
+            
+            "culture" : 1, "cost" : 20
+            
+            "uniqueTo" : "Demak Kingdom",
+            "requiredBuilding" : "Demak Great Mosque",
+        },
+        {
+            "name" : "Majapahit Serambi",
+            "isNationalWonder" : true,
+            
+            "culture" : 1, "cost" : 20
+            
+            "uniqueTo" : "Demak Kingdom",
+            "requiredBuilding" : "Demak Great Mosque",
+        },
+        {
+            "name" : "Mihrab",
+            "isNationalWonder" : true,
+            
+            "culture" : 1, "cost" : 20
+            
+            "uniqueTo" : "Demak Kingdom",
+            "requiredBuilding" : "Demak Great Mosque",
+        },
+    {
+        "name" : "Pawasren",
+        "isNationalWonder" : true,
+        
+        "culture" : 3, "cost" : 40
+        
+        "uniqueTo" : "Demak Kingdom",
+    },
+    {
+        "name" : "Surya Majapahit",
+        "isNationalWonder" : true,
+        
+        "culture" : 3, "faith" : 3, "cost" : 100
+        
+        "uniqueTo" : "Demak Kingdom",
+    },
+    //Aceh Kingdom
+    {
+        "name" : "Baiturrahman Big Mosque",
+        "isNationalWonder" : true,
+        
+        "culture" : 3, "faith" : 3, "happiness" : 5, "cost" : 60
+        
+        "uniqueTo" : "Aceh Kingdom",
+    },
+    {
+        "name" : "Sari Gunongan Park",
+        "isNationalWonder" : true,
+        
+        "culture" : 3, "happiness" : 8, "cost" : 50
+        
+        "uniqueTo" : "Aceh Kingdom",
+    },
+    {
+        "name" : "Indra Patra Walls",
+        "isNationalWonder" : true,
+        
+        "happiness" : 5, "cityStrength": 5, "cost" : 100
+        
+        "uniqueTo" : "Aceh Kingdom",
+    },
+    {
+        "name" : "Aceh Kingdom Dirham Golds Site",
+        "isNationalWonder" : true,
+        
+        "happiness" : 5, "gold": 100, "cost" : 200
+        
+        "uniqueTo" : "Aceh Kingdom",
+        "requiredTech" : "Banking",
+    },
+    //Majapahit Kingdom
+    {
+        "name" : "Tikus Temple",
+        "isNationalWonder" : true,
+        
+        "happiness" : 2, "faith": 2, "cost" : 30
+        
+        "uniqueTo" : "Majapahit Kingdom",
+    },
+        {
+            "name" : "Bajang Ratu Temple",
+            "isNationalWonder" : true,
+        
+            "happiness" : 2, "faith": 2, "cost" : 30
+        
+            "uniqueTo" : "Majapahit Kingdom",
+            "requiredBuilding" : "Tikus Temple",
+        },
+        {
+            "name" : "Wringin Lawang Temple",
+            "isNationalWonder" : true,
+        
+            "happiness" : 2, "faith": 2, "cost" : 30
+        
+            "uniqueTo" : "Majapahit Kingdom",
+            "requiredBuilding" : "Tikus Temple",
+        },
+        {
+            "name" : "Brahu Temple",
+            "isNationalWonder" : true,
+        
+            "happiness" : 2, "faith": 2, "cost" : 30
+        
+            "uniqueTo" : "Majapahit Kingdom",
+            "requiredBuilding" : "Tikus Temple",
+        },
+    {
+        "name" : "Pari Temple",
+        "isNationalWonder" : true,
+        
+        "happiness" : 2, "faith": 2, "cost" : 30
+        
+        "uniqueTo" : "Majapahit Kingdom",
+    },
+        {
+            "name" : "Penataran Temple",
+            "isNationalWonder" : true,
+        
+            "happiness" : 2, "faith": 2, "cost" : 30
+        
+            "uniqueTo" : "Majapahit Kingdom",
+            "requiredBuilding" : "Pari Temple",
+        },
+        {
+            "name" : "Jabung Temple",
+            "isNationalWonder" : true,
+        
+            "happiness" : 2, "faith": 2, "cost" : 30
+
+            "uniqueTo" : "Majapahit Kingdom",
+            "requiredBuilding" : "Pari Temple",
+        },
+        {
+            "name" : "Sukuh Temple",
+            "isNationalWonder" : true,
+        
+            "happiness" : 2, "faith": 2, "cost" : 30
+        
+            "uniqueTo" : "Majapahit Kingdom",
+            "requiredBuilding" : "Pari Temple",
+        },
+    {
+        "name" : "Kudadu Inscription",
+        "isNationalWonder" : true,
+        
+        "happiness" : 2, "culture": 2, "cost" : 30
+        
+        "uniqueTo" : "Majapahit Kingdom",
+    },
+        {
+            "name" : "Prapancasapura Inscription",
+            "isNationalWonder" : true,
+        
+            "happiness" : 2, "culture": 2, "cost" : 30
+        
+            "uniqueTo" : "Majapahit Kingdom",
+            "requiredBuilding" : "Kudadu Inscription",
+        },
+        {
+            "name" : "Sukamerta Inscription",
+            "isNationalWonder" : true,
+        
+            "happiness" : 2, "culture": 2, "cost" : 30
+        
+            "uniqueTo" : "Majapahit Kingdom",
+            "requiredBuilding" : "Kudadu Inscription",
+        },
+        {
+            "name" : "Waringin Pitu Inscription",
+            "isNationalWonder" : true,
+        
+            "happiness" : 2, "culture": 2, "cost" : 30
+        
+            "uniqueTo" : "Majapahit Kingdom",
+            "requiredBuilding" : "Kudadu Inscription",
+        },
 ]

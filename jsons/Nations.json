@@ -1,20 +1,20 @@
 [
 	{
 		//*
-		"name" : "Mataram Kingdoms",
-                "uniqueName" : "Mataram Sultanate",
+		"name" : "Mataram Kingdom",
+		"uniqueName" : "Mataram Sultanate",
 		"leaderName": "Anyakrakusuma",
 		"adjective": ["Matarams"],
 		"startBias": ["[Jungle]","[Plains]","Avoid [Snow]","Avoid [Tundra]"],
 		"preferredVictoryType": "Scientific",
-		
-                //**
+	
+		//**
 		"startIntroPart1": "Throughout the 16th century, at the height of its glory under the rule of Anyakrakusuma, Mataram was one of the most powerful states in Java, the sultanate that united most of the island of Java, namely most of West Java, East Java and Central Java except Banten. control of Madura, and Sukadana (West Kalimantan) and the island of Sumatra (Palembang and Jambi).",
-                "uniqueText" : "Throughout the 16th century, at the height of its glory under the rule of Anyakrakusuma, Mataram was one of the most powerful states in Java, the sultanate that united most of the island of Java, namely most of West Java, East Java and Central Java except Banten. control of Madura, and Sukadana (West Kalimantan) and the island of Sumatra (Palembang and Jambi).",
+		"uniqueText" : "Throughout the 16th century, at the height of its glory under the rule of Anyakrakusuma, Mataram was one of the most powerful states in Java, the sultanate that united most of the island of Java, namely most of West Java, East Java and Central Java except Banten. control of Madura, and Sukadana (West Kalimantan) and the island of Sumatra (Palembang and Jambi).",
 
 		"declaringWar": "We'll start this War!",
-		"attacked": "Oh well, How dare you.",
 		"defeated": "We're done.",
+		"attacked": "Oh well, How dare you.",
 		"introduction": "Is that you?",
 
 		"neutralHello": "Assalamualaikum.",
@@ -22,47 +22,107 @@
 
 		"tradeRequest": "Interesting, wanna make a deal?.",
 
-                //***
+		//***
 		"outerColor": [225,0,0],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
 		"cities": ["Siti Narawita","Karaton","Bumi Gede","Bumija","Siti Numbak Anyar", "Pajang", "Mancagara Wétan", "Mancagara Kilèn","Pasisiran Wétan","Pasisiran Kilèn"]
 	},
-        {
-        //*
-                "name" : "Demak Kingdoms",
-                "uniqueName" : "Demak Sultanate",
-                "leaderName" : "Sultan Trenggono",
-                "adjective" : ["Demaknese"],
-                "startBias": ["[Plains]"],
+	{
+		//*
+		"name" : "Demak Kingdom",
+		"uniqueName" : "Demak Sultanate",
+		"leaderName" : "Sultan Trenggono",
+		"adjective" : ["Demaknese"],
+		"startBias": ["[Plains]"],
 		"preferredVictoryType": "Scientific",
 
-                //**
+		//**
 		"startIntroPart1": "During the reign of Sultan Trenggono, the Kingdom of Demak succeeded in expanding its power to Sunda Kelapa, Tuban, Surabaya, Pasuruan, Malang, and Blambangan. With the power it has, finally the Kingdom of Demak also succeeded in spreading Islam widely. At that time the Kingdom of Demak was the strongest Islamic kingdom in Java.",
 		"uniqueText": "During the reign of Sultan Trenggono, the Kingdom of Demak succeeded in expanding its power to Sunda Kelapa, Tuban, Surabaya, Pasuruan, Malang, and Blambangan. With the power it has, finally the Kingdom of Demak also succeeded in spreading Islam widely. At that time the Kingdom of Demak was the strongest Islamic kingdom in Java.",
 
-                //***
-		"outerColor": [230,230,0],
+        "declaringWar" : "ALLAHUAKBAR!",
+        "defeated" : "Ya allah.. we died..",
+        "attacked" : "Astagfirullah Brother",
+        "introduction" : "I'm Sultan Trenggono From Demak",
+        
+        "neutralHello" : "Salamualaikum",
+        "hateHello" : "what?",
+        
+		//***
+		"outerColor": [220,220,0],
+		"innerColor": [125,125,125],
+		"favoredReligion": "Islam",
+		"cities": ["Bintoro", "Sunda Kelapa", "Tuban", "Surabaya", "Pasuruan", "Malang", "Blambangan", "Madiun"]
+	},
+	{
+		//*
+		"name" : "Aceh Kingdom",
+		"uniqueName" : "Aceh Darussalam Sultanate",
+		"leaderName" : "Sultan Iskandar Muda",
+		"adjective" : ["Acehnese"],
+		"startBias" : ["[Plains]"],
+
+		//**
+		"startIntroPart1": "The Sultanate of Aceh experienced a period of widest expansion and influence during the leadership of Sultan Iskandar Muda or Sultan Meukuta Alam. During his leadership, Aceh conquered Pahang which was the main source of tin.",
+		"uniqueText": "The Sultanate of Aceh experienced a period of widest expansion and influence during the leadership of Sultan Iskandar Muda or Sultan Meukuta Alam. During his leadership, Aceh conquered Pahang which was the main source of tin.",
+		
+		//***
+		"outerColor": [200,0,0],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam",
-                "cities": ["Bintoro", "Sunda Kelapa", "Tuban", "Surabaya", "Pasuruan", "Malang", "Blambangan", "Madiun"]
-       },
-       {
-               //*
-               "name" : "Aceh Kingdoms",
-               "uniqueName" : "Aceh Darussalam Sultanate",
-               "leaderName" : "Sultan Iskandar Muda",
-               "adjective" : "Acehnese",
-               "startBias" : ["[Plains]"],
-
-                //**
-                "startIntroPart1": "The Sultanate of Aceh experienced a period of widest expansion and influence during the leadership of Sultan Iskandar Muda or Sultan Meukuta Alam. During his leadership, Aceh conquered Pahang which was the main source of tin.",
-                "uniqueText": "The Sultanate of Aceh experienced a period of widest expansion and influence during the leadership of Sultan Iskandar Muda or Sultan Meukuta Alam. During his leadership, Aceh conquered Pahang which was the main source of tin.",
-
-                //***
-		"outerColor": [225,0,0],
+		"cities": ["Kutaraja", "Daya", "Pedir", "Lidie", "Nakur", "Jeumpa", "Lamuri", "Linge", "Peureulak", "Samudera Pasai"]
+	},
+	{
+		//*
+		"name" : "Majapahit Kingdom",
+		"uniqueName" : "Majapahit Empire",
+		"leaderName" : "Hayam Wuruk",
+		"adjective" : ["Majapahits"],
+		"startBias" : ["[Plains]","[Jungle]"],
+		
+		//**
+		"startIntroPart1" : "Under the reign of Hayam Wuruk, the Majapahit Kingdom reached its peak of glory. Hayam Wuruk was assisted by Mahapatih Gajah Mada in his government. Under the rule of Hayam Wuruk, Majapahit carried out policy of expansion to ensure its strength in the field of trade by sea, as well as the implementation of the Sumpah Palapa declared by the governior of Gajah Mada",
+		"uniqueText" : "Under the reign of Hayam Wuruk, the Majapahit Kingdom reached its peak of glory. Hayam Wuruk was assisted by Mahapatih Gajah Mada in his government. Under the rule of Hayam Wuruk, Majapahit carried out policy of expansion to ensure its strength in the field of trade by sea, as well as the implementation of the Sumpah Palapa declared by the governior of Gajah Mada",
+		
+		//***
+		"outerColor": [240,0,0],
 		"innerColor": [255,255,255],
+		"favoredReligion": "Buddhism",
+		"cities" : ["Majapahit", "Bedahulu", "Lombok", "Palembang", "Swarnabhumi", "Tamiang", "Pulau Bintan", "Tumasik", "Kapuas", "Katingan", "Sampit", "Kotalingga", "Kotawaringin", "Sambang", "Lawai", "Kandangan", "Landak", "Samadang", "Tirem", "Sedu", "Brunei", "Kalka", "Saluduk", "Solok", "Pasir", "Barito", "Sawaku", "Tabalong", "Tanjungkutai", "Malinau"]
+	},
+	{
+		//*
+		"name" : "Srivijaya Kingdom",
+		"uniqueName" : "Sriwijaya Empire",
+		"leaderName" : "Balaputradewa",
+		"adjective" : "Srivijayan",
+		"startBias" : ["[Plains]","[Jungle]"],
+		
+		//**
+		"startIntroPart1" : "Seiwijaya's Glory can be seen from its success in several fields, such as the maritime sector by controliing trade routes through Selat Malaya, Selat Sunda, and Semenanjung Malaya",
+		"uniqueText" : "Seiwijaya's Glory can be seen from its success in several fields, such as the maritime sector by controliing trade routes through Selat Malaya, Selat Sunda, and Semenanjung Malaya",
+		
+		//***
+		"outerColor": [200,0,0],
+		"innerColor": [255,255,255],
+		"favoredReligion": "Buddhism",
+		"cities" : ["Palembang", "Bangka", "Lampung", "Malayu", "Minanga", "Kedah", "Ligor"]
+	},
+	{
+		//*
+		"name" : "Daye Kingdom",
+		"uniqueName" : "Nanggroe Daye",
+		"leaderName" : "Sultan Meureuhom Daya",
+        "cityStateType" : "Cultured",
+		"startBias" : ["[Plains]","[Jungle]"],
+			
+		//**
+        
+		//***
+		"outerColor": [20,20,20],
+		"innerColor": [200,200,0],
 		"favoredReligion": "Islam",
-                "cities": ["Kutaraja", "Daya", "Pedir", "Lidie", "Nakur", "Jeumpa", "Lamuri", "Linge", "Peureulak", "Samudera Pasai"]
-        }
+		"cities" : ["Kuta Dalam", "Keuluang", "Lam Beusoe", "Kuala Daya", "Kuala Unga"]
+	}
 ]
